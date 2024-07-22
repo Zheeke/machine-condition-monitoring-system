@@ -26,3 +26,8 @@ I first ensure connection to the database. Then load data to pandas DataFrame an
 
 ## 5. Data Visualisation
 Using matplotlib packages for visualisation I will create 3 graphs: Temperature over time, Humidity over time, Pressure over time
+
+## Result
+![Humidity](https://github.com/user-attachments/assets/60ee3b56-b441-4567-b403-07be1a43e1f7)
+![Pressure](https://github.com/user-attachments/assets/96f53ee7-649f-4a5d-ae4f-9cc5f6a61c83)
+![Temperature](https://github.com/user-attachments/assets/9f77fb14-2c3f-43be-8914-ac681f9bdf78)

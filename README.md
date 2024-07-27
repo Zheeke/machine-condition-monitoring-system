@@ -4,10 +4,10 @@ This project is a real-time machine condition monitoring system that collects da
 
 
 ## 2. Tools and Technologies Used
-Programming Languages: Python
-Database: SQL Server(since I’m familiar with it and it is very beginner friendly)
-Data Analysis: matplotlib
-Automation: Python script to simulate data collection and storage
+Programming Languages: Python,
+Database: SQL Server(since I’m familiar with it and it is very beginner friendly),
+Data Analysis: matplotlib,
+Automation: Python script to simulate data collection and storage,
 Database Schema
 I will create a machine-monitoring database with a table machine_data that stores the following columns:
 ID: Unique identifier for each record
